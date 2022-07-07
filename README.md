@@ -1,4 +1,4 @@
-## music_youtube
+### music_youtube
 This python script gives you a music file from Youtube
 
 ### Pre-requisites:
